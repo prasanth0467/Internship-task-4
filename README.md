@@ -23,11 +23,11 @@ To create an interactive dashboard that helps business stakeholders analyze sale
 - Clean, consistent layout
 
 ## Key Insights
-• West Region shows highest overall profit
-• Technology category drives most sales
-• Office Supplies has lowest profit margin
-• Profitability not directly tied to sales volume
-• Focus can be increased on high-margin segments
+- West Region shows highest overall profit
+- Technology category drives most sales
+- Office Supplies has lowest profit margin
+- Profitability not directly tied to sales volume
+- Focus can be increased on high-margin segments
 
 ## Files Included
 - `task 4.pbix` – Power BI file
