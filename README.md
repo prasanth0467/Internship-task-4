@@ -1,6 +1,6 @@
 ---
 
-# Sales Insights Dashboard – Superstore Dataset
+# Data Analyst Internship - Task 4 
 
 ## Objective
 To create an interactive dashboard that helps business stakeholders analyze sales and profit performance across time, categories, and regions.
@@ -31,7 +31,10 @@ To create an interactive dashboard that helps business stakeholders analyze sale
 
 ## Files Included
 - `task 4.pbix` – Power BI file
-- `presentation_task4.pptx` – Presentation
-- Dataset file
-- Screenshot image
+- `Presentation_Task4.pptx` – PPT 
+- `Sample-Superstore.csv`-Dataset file
+- `task 4.png`-Screenshot image
+
+## Author 
+Majji Prasanth Reddy 
 
